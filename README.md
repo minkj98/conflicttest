@@ -1,1 +1,3 @@
-# conflict-b
+
+# conflict-a
+>>>>>>> origin/a
